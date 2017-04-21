@@ -1,7 +1,7 @@
 # bash-scripts
 Miscellaneous bash scripts and associated files.
 
-- mapWater - maps water in ArcGIS .asc files as .png images. Requires gdal.
+- mapWater.sh - maps water in ArcGIS .asc files as .png images. Requires gdal.
 - water.pal - the colour palette file.
 - 300mm_water_patches.asc - water output from WDPM run at St. Denis.
 - PCM.sh - runs Pothole Casade Model repeatedly.
